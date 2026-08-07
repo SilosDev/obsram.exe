@@ -1,27 +1,55 @@
 ---
 
-title: Wykonywanie
+title: ''
 shortTitle: ''
-intro: 'Krótko wyjaśnij, co użytkownik osiągnie dzięki temu poradnikowi.'
+intro: ''
 type: how_to
 topics:
 
-* nazwa-tematu
+* ''
   versions:
-* numer-wersji
+* ''
 
 ---
 
 ## Wymagania wstępne
 
-Wymień wymagane uprawnienia, narzędzia lub czynności konfiguracyjne.
+Przed rozpoczęciem upewnij się, że:
 
-## Kroki
+* masz wymagane uprawnienia,
+* masz zainstalowane wymagane narzędzia,
+* spełniasz pozostałe wymagania niezbędne do wykonania instrukcji.
 
-1. **Krok pierwszy** – Jasno opisz pierwszą czynność.
-2. **Krok drugi** – Podaj kolejną czynność wraz ze szczegółami.
-3. **Krok trzeci** – Kontynuuj, aż proces zostanie ukończony.
+## Instrukcja
+
+### 1. Przygotowanie
+
+Opisz, co należy przygotować przed rozpoczęciem.
+
+### 2. Wykonanie
+
+Opisz główne czynności krok po kroku.
+
+1. Wykonaj pierwszą czynność.
+2. Wykonaj kolejną czynność.
+3. Sprawdź, czy operacja zakończyła się powodzeniem.
+
+### 3. Weryfikacja
+
+Opisz, jak sprawdzić, czy wszystko zostało wykonane poprawnie.
+
+## Rozwiązywanie problemów
+
+Jeśli napotkasz problem:
+
+* **Problem:** Opis problemu
+  **Rozwiązanie:** Opis rozwiązania.
+
+* **Problem:** Opis problemu
+  **Rozwiązanie:** Opis rozwiązania.
 
 ## Dalsza lektura
 
-* [Rozszerzony poradnik](link-do-artykulu)
+* [Powiązana dokumentacja](link)
+* [Dokumentacja referencyjna](link)
+* [Przewodnik](link)
