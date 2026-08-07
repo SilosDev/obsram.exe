@@ -1,13 +1,13 @@
 ---
 
-title: ''
-shortTitle: ''
-intro: ''
-type: how_to
-topics:
+title: 'Obsram.exe'
+shortTitle: 'obsram'
+intro: 'exe'
+type: c++
+topics: program
 
 * ''
-  versions:
+  versions: 1.0
 * ''
 
 ---
