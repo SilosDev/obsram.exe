@@ -1,17 +1,18 @@
 ---
-title: 'About <subject>'
-shortTitle: '<subject>'
-intro: 'Brief introduction to the topic.'
-product: "optional product callout"
-type: overview
+title: Performing <task>
+shortTitle: '<task>'
+intro: 'Briefly explain what the user will achieve.'
+type: how_to
 topics:
  - topic-name
 versions:
  - version-number
 ---
-## Overview
-Provide a concise summary of the main idea. Explain why it matters and who it’s for
-## Key Details
-Add supporting information, examples, or related concepts
+## Prerequisites
+List any required permissions, tools, or setup steps
+## Steps
+1. **Step One** – Describe the first action clearly
+2. **Step Two** – Provide the next action with details
+3. **Step Three** – Continue until the process is complete
 ## Further Reading
-- [Related Article](article-link)
+- [Extended Guide](article-link)
