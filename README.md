@@ -1,18 +1,27 @@
 ---
-title: Performing <task>
-shortTitle: '<task>'
-intro: 'Briefly explain what the user will achieve.'
+
+title: Wykonywanie
+shortTitle: ''
+intro: 'Krótko wyjaśnij, co użytkownik osiągnie dzięki temu poradnikowi.'
 type: how_to
 topics:
- - topic-name
-versions:
- - version-number
+
+* nazwa-tematu
+  versions:
+* numer-wersji
+
 ---
-## Prerequisites
-List any required permissions, tools, or setup steps
-## Steps
-1. **Step One** – Describe the first action clearly
-2. **Step Two** – Provide the next action with details
-3. **Step Three** – Continue until the process is complete
-## Further Reading
-- [Extended Guide](article-link)
+
+## Wymagania wstępne
+
+Wymień wymagane uprawnienia, narzędzia lub czynności konfiguracyjne.
+
+## Kroki
+
+1. **Krok pierwszy** – Jasno opisz pierwszą czynność.
+2. **Krok drugi** – Podaj kolejną czynność wraz ze szczegółami.
+3. **Krok trzeci** – Kontynuuj, aż proces zostanie ukończony.
+
+## Dalsza lektura
+
+* [Rozszerzony poradnik](link-do-artykulu)
