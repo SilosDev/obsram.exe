@@ -12,7 +12,7 @@ topics: program
 
 ---
 
-## Wymagania wstępne
+## Wprowadzenie
 
 Przed rozpoczęciem upewnij się, że:
 
